@@ -1,4 +1,4 @@
-#CodTech_Internship
+CodTech_Internship:
 This repository contains the tasks and projects completed during my internship at CodTech. The tasks cover various aspects of Java Development. Which Includes:
 
 Task 1: FILE HANDING UTILITY
